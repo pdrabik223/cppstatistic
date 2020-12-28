@@ -1,0 +1,5 @@
+C:/Users/studio25/source/repos/cppstatistic/out/build/x64-Debug (domyślnie)/CMakeFiles/edit_cache.dir
+C:/Users/studio25/source/repos/cppstatistic/out/build/x64-Debug (domyślnie)/CMakeFiles/rebuild_cache.dir
+C:/Users/studio25/source/repos/cppstatistic/out/build/x64-Debug (domyślnie)/cppstatistic/CMakeFiles/cppstatistic.dir
+C:/Users/studio25/source/repos/cppstatistic/out/build/x64-Debug (domyślnie)/cppstatistic/CMakeFiles/edit_cache.dir
+C:/Users/studio25/source/repos/cppstatistic/out/build/x64-Debug (domyślnie)/cppstatistic/CMakeFiles/rebuild_cache.dir

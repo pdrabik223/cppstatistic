@@ -1,0 +1,9 @@
+#first_chart {
+    height: 50%;
+    width: 100%;
+}
+
+canvas {
+    width: 100%;
+    height: auto;
+}
