@@ -338,3 +338,32 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/out/build/x64-Debug (default)/.cmake/api/v1/query/client-MicrosoftVS/query.json
+/out/build/x64-Debug (default)/.cmake/api/v1/reply/cache-v2-fcf909ccdb970ff3115f.json
+/out/build/x64-Debug (default)/.cmake/api/v1/reply/index-2020-12-30T19-14-47-0196.json
+/out/build/x64-Debug (default)/.cmake/api/v1/reply/cmakeFiles-v1-eb41c8e1508a9dbae3ca.json
+/out/build/x64-Debug (default)/.cmake/api/v1/reply/codemodel-v2-6a7c40e4992a2e45b055.json
+/out/build/x64-Debug (default)/.cmake/api/v1/reply/target-cppstatistic-Debug-35bb86771043961a977f.json
+/out/build/x64-Debug (default)/.ninja_deps
+/out/build/x64-Debug (default)/.ninja_log
+/out/build/x64-Debug (default)/build.ninja
+/out/build/x64-Debug (default)/cmake_install.cmake
+/out/build/x64-Debug (default)/CMakeCache.txt
+*.cmake
+/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.exe
+/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CMakeDetermineCompilerABI_CXX.bin
+/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CMakeDetermineCompilerABI_C.bin
+/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.cpp
+/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdC/CMakeCCompilerId.c
+/out/build/x64-Debug (default)/CMakeFiles/cmake.check_cache
+/out/build/x64-Debug (default)/CMakeFiles/3.17.20032601-MSVC_2/CompilerIdCXX/CMakeCXXCompilerId.exe
+/out/build/x64-Debug (default)/CMakeFiles/ShowIncludes/foo.h
+/out/build/x64-Debug (default)/CMakeFiles/ShowIncludes/main.c
+/out/build/x64-Debug (default)/CMakeFiles/TargetDirectories.txt
+/out/build/x64-Debug (default)/cppstatistic/CMakeFiles/cppstatistic.dir/embed.manifest
+/out/build/x64-Debug (default)/cppstatistic/CMakeFiles/cppstatistic.dir/intermediate.manifest
+/out/build/x64-Debug (default)/cppstatistic/CMakeFiles/cppstatistic.dir/manifest.rc
+/out/build/x64-Debug (default)/cppstatistic/CMakeFiles/cppstatistic.dir/manifest.res
+/out/build/x64-Debug (default)/cppstatistic/cppstatistic.exe
+/out/build/x64-Debug (default)/VSInheritEnvironments.txt
+/out/build/x64-Debug (default)/rules.ninja
